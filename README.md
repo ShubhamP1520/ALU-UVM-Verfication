@@ -1,4 +1,5 @@
 # ALU-UVM-Verfication
 ## Testbench Architecture
 
-<img width="1420" height="1440" alt="Blank diagram (3)" src="https://github.com/user-attachments/assets/20219f3f-db1a-4104-9e24-21d4e78d0a6a" />
+<img width="1420" height="1440" alt="Blank diagram (4)" src="https://github.com/user-attachments/assets/775b5ee4-fecc-4986-a137-5f354f588530" />
+
